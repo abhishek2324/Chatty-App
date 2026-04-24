@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chatty App
 
 **Chatty App** is a real-time chat application built with the **MERN stack**, enhanced with **Socket.IO** for instant messaging and **DaisyUI** for modern, responsive UI components. The app allows users to register, login, and engage in real-time conversations with other users, making communication seamless and interactive.
@@ -33,5 +32,4 @@
 ```bash
 git clone https://github.com/CoderKing246/fullStack-ChattyApp.git
 =======
-# Chatty-App
->>>>>>> 91dda480dfa5e829ff0f8ac4eef074f16b4dc6bc
+
