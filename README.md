@@ -32,3 +32,9 @@
 ```bash
 git clone https://github.com/CoderKing246/fullStack-ChattyApp.git
 
+---
+
+Deployment Status
+🚧 Currently, this project is configured for local development.
+Deployment setup can be configured using platforms like Render and Vercel.
+
